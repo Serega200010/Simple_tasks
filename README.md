@@ -1,6 +1,6 @@
 # Simple_tasks
 The repository of my solutions of simple tasks, such as university projects and assignments, just interesting tasks etc.
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///
 ------------------------------
 DateClass.cpp:
 ------------------------------
