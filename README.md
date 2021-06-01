@@ -16,3 +16,17 @@ We realise two classes that were inherited from previous one named Date, them ha
 
 Moreover we need to have an opportunity to read the following information from the file:  I filename dd mm yy, where I is a type of class. So we provide the fabricks mechanism to read such information from file and construct the vector of CDates
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///
+------------------------------
+Sirius_Finmat
+------------------------------
+
+The realisation of big project that was made in Sirius University, Sochi, february 2021, in the school of financial mathematics, organized by L. Merkin.
+
+The program complex includes:
+
+Some diffusion models, modelling different types of random process
+Monte-Carlo engine to generate ways of variable
+Realisation of Option Hedger and option pricer
+The Grid way of Black–Scholes Option Pricing Model modelling
+Set of testers
