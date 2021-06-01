@@ -25,8 +25,8 @@ The realisation of big project that was made in Sirius University, Sochi, februa
 
 The program complex includes:
 
-Some diffusion models, modelling different types of random process
-Monte-Carlo engine to generate ways of variable
-Realisation of Option Hedger and option pricer
-The Grid way of Black–Scholes Option Pricing Model modelling
-Set of testers
+-Some diffusion models, modelling different types of random process
+-Monte-Carlo engine to generate ways of variable
+-Realisation of Option Hedger and option pricer
+-The Grid way of Black–Scholes Option Pricing Model modelling
+-Set of testers
