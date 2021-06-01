@@ -7,9 +7,13 @@ DateClass.cpp:
 The realisation of the following task:
 
 We have a date object and some functions it provides: 
+
 -is current year LEAP or it isn't
+
 -compare to dates by count of days between them
+
 -add some days to current date
+
 -etc
 
 We realise two classes that were inherited from previous one named Date, them has different way of output: CDate0 write the current date with English while CDate1 uses Russian. Both classes have functions of file output.
