@@ -1,0 +1,6 @@
+Some functions from NLP project of telegram chat-bot constructing.
+Number-extraction file contains some useful functions which are used to extract numbers that are written by text, extract them and transform into their number form. All functions are intuitive and provides simple interface.
+Number-extraction.py содержит ряд полезных функций по извлечению числительных, записанных в тексте в их текстовой форме и преобразования в их численную форму внутри текста.
+
+CAUTION: it can be uncorrect with numbers more then 1 billion and numbers that were wrote in a row
+ВНИМАНИЕ: результат может быть некорректным для числительных больше одного миллиарда или подрряд записанных (даже через запятую и прочие разделители, не являющиеся словами) числительных
